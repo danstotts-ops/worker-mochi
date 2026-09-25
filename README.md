@@ -1,6 +1,6 @@
 # worker-mochi
 
-> Generate videos with Mochi as an endpoint on RunPod
+> Generate videos with Mochi as an endpoint on Runpod
 
 ## Features
 
@@ -63,7 +63,7 @@
 
 ## Deployment
 
-Deploy this worker on RunPod using the [GitHub Integration](https://docs.runpod.io/serverless/github-integration).
+Deploy this worker on Runpod using the [GitHub Integration](https://docs.runpod.io/serverless/github-integration).
 
 ## Development
 
